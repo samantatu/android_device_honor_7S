@@ -53,7 +53,7 @@ TARGET_PREBUILT_KERNEL += $(DEVICE_PATH)/prebuilt/zImage-dtb
 #TARGET_BOARD_PLATFORM_GPU := 
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := 7S
+TARGET_OTA_ASSERT_DEVICE := DUA-L22
 
 # Partitions
 #BOARD_RECOVERYIMAGE_PARTITION_SIZE := 29778848 # This is the maximum known partition size, but it can be higher, so we just omit it
